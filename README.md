@@ -1,1 +1,3 @@
-# FAST_API_UDEMY_COURSE
+"# Fastapi-The-Complete-Course"
+
+Course and code created by: Eric Roby
